@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Mohib Riyaz",
+    "occupation": "Engineering Graduate",
+    "description": "An independent and self-motivated graduate looking for an entry level position in Software development where I can utilize the extensive knowledge I have gained during my course.",
+    "image": "Profiepic.jpeg",
+    "bio": "Engineering graduate with the knowledge of React Js, HTML/CSS, GitHub, MongoDB.",
+    "contactmessage": "I am a website designer, programmer helping businesses to grow.",
+    "email": "mohibriyaz73@gmail.com",
+    "phone": "+91 7006293384",
+    "address": {
+      "street": "Nishat",
+      "city": "Srinagar",
+      "state": "J&K",
+      "zip": "191123"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "github",
+        "url": "http://github.com/mohibriyaz",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mohibriyaz",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/mohib_riyaz",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/mohib.lone",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/mohib_riyaz",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Learning Everyday",
+    "education": [
+      {
+        "school": "Amity University",
+        "degree": "Bachelor of Technology in Computer Science and Engineering",
+        "graduated": "June 2022",
+        "description": "7.39/10"
+      },
+      {
+        "school": "Burn Hall School",
+        "degree": "XII",
+        "graduated": "November 2017",
+        "description": "7.82/10"
+      }
+    ],
+    "work": [
+      {
+        "company": "LeLafe IT Solution Pvt Ltd",
+        "title": "Qaulity Assurance Intern ",
+        "years": "May 2021 - August 2021",
+        "description": "Conducted automation with the assigned team for ongoing product and report the bugs to the senior developer."
+      },
+      {
+        "company": "ActionAid (India) Association",
+        "title": "Volunteer",
+        "years": "March 2022 - May 2022",
+        "description": "Worked with the team in community awareness, community work, photographic sessions and youth development training programs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Online Car Rental Web Application",
+        "category": "My major project for the university",
+        "image": "canadian-wanderlust.jpeg",
+        "url": "https://github.com/mohibriyaz/savaer-Lets-Rent/tree/master"
+      }
+    ]
+  }
+}
