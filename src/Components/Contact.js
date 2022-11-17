@@ -134,7 +134,9 @@ class Contact extends Component {
                     </b>
                   </span>
                   <b>
-                    <a href="#">18 Jul, 2019</a>
+                    <a href="https://twitter.com/mohib_riyaz/status/1148130759548346368?s=20&t=UP6A0FAQ9jtmbyI8lobfuQ">
+                      18 Jul, 2019
+                    </a>
                   </b>
                 </li>
                 {/* <li>
