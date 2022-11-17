@@ -2,7 +2,7 @@
   "main": {
     "name": "Mohib Riyaz",
     "occupation": "Engineering Graduate",
-    "description": "An independent and self-motivated graduate looking for an entry level position in Software development where I can utilize the extensive knowledge I have gained during my course.",
+    "description": " An independent and self-motivated graduate looking for an entry level position in Software development where I can utilize the extensive knowledge I have gained during my course.",
     "image": "Profiepic.jpeg",
     "bio": "Engineering graduate with the knowledge of React Js, HTML/CSS, GitHub, MongoDB.",
     "contactmessage": "I am a website designer, programmer helping businesses to grow.",
@@ -15,7 +15,7 @@
       "zip": "191123"
     },
     "website": "",
-    "resumedownload": "",
+    "resumedownload": "https://docs.google.com/document/d/1X0le06bAviPawbsUaGadDRA0QwogWqB9/edit",
     "social": [
       {
         "name": "github",
