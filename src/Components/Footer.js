@@ -21,10 +21,8 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul className="copyright">
-              <li>&copy; Copyright 2022 Mohib Riyaz</li>
-              <li>
-                Design by <a title="Styleshout">Styleshout</a>
-              </li>
+              <li>&copy; Copyright 2024 MR</li>
+              
             </ul>
           </div>
           <div id="go-top">
