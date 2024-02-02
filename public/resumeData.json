@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Mohib Riyaz",
-    "occupation": "Engineering Graduate",
+    "occupation": "Master's Student at Politecnico di Milano",
     "description": " An independent and self-motivated graduate looking for an entry level position in Software development where I can utilize the extensive knowledge I have gained during my course.",
-    "image": "Profiepic.jpeg",
-    "bio": "Engineering graduate with the knowledge of React Js, HTML/CSS, GitHub, MongoDB.",
+    "image": "Profilepic.JPG",
+    "bio": "I am a master's student in computer science at Politecnico di Milano, pursuing my passion for web development and software engineering. I have a bachelor's degree in computer science and engineering from Amity University, where I learned the fundamentals of programming, data structures, algorithms, and databases. I have also acquired multiple certifications in digital marketing, career edge, and MERN stack from Google, Tata Consultancy Services, and Udemy, respectively, to enhance my skills and knowledge in the field. I have recently completed a four-month internship at LeLafe IT Solutions, where I contributed to the quality assurance of the project 'Educian', which is an online learning platform, using automation tools and techniques in Visual Studio. I am motivated by the opportunity to use my skills and expertise to create positive social impact and support the mission and vision of the organization. I believe I can bring diverse perspectives and experiences to the team, as I have lived and studied in different countries and cultures, and speak three languages: English, Hindi, and Urdu.",
     "contactmessage": "I am a website designer, programmer helping businesses to grow.",
     "email": "mohibriyaz73@gmail.com",
-    "phone": "+91 7006293384",
+    "phone": "+39 3891022092",
     "address": {
-      "street": "Nishat",
-      "city": "Srinagar",
-      "state": "J&K",
-      "zip": "191123"
+      "street": "Via Mario Borsa",
+      "city": "Milano",
+      "state": "Italy",
+      "zip": "20151"
     },
     "website": "",
     "resumedownload": "https://docs.google.com/document/d/1GMm4jE7b4z_qLj0of-VlDTAL6d31kFmT/edit",
@@ -48,6 +48,12 @@
   "resume": {
     "skillmessage": "Learning Everyday",
     "education": [
+      {
+        "school": "Politecnico di Milano",
+        "degree": "MS in Computer Science and Engineering",
+        "graduated": "December 2025 (expected)",
+        "description": ""
+      },
       {
         "school": "Amity University",
         "degree": "Bachelor of Technology in Computer Science and Engineering",
@@ -107,6 +113,12 @@
         "category": "My major project for the university",
         "image": "canadian-wanderlust.jpeg",
         "url": "https://github.com/mohibriyaz/savaer-Lets-Rent/tree/master"
+      },
+      {
+        "title": "Hassanz Enclave",
+        "category": "Freelance",
+        "image": "he.jpeg",
+        "url": "https://www.hassanzenclave.com"
       }
     ]
   }
